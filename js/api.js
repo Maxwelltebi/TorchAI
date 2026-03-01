@@ -1,6 +1,6 @@
 // js/api.js — Calls the FastAPI backend which proxies Gemini
 
-const API_BASE = "http://localhost:8000";
+const API_BASE = "https://torch-ai-ten.vercel.app/";
 
 async function getCareerRecommendation(answers) {
   const kitList = CAREER_KITS.map((k) => `- ${k.id}: ${k.title} (${k.field})`).join("\n");
