@@ -3,6 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 import httpx
 import os
+from mangum import Mangum
 
 # Try to load .env for local development (optional in production)
 try:
@@ -69,7 +70,7 @@ async def root():
 async def health():
     return {"status": "ok"}
 
-from mangum import Mangum
+
 
 # keep all your existing code, then at the very bottom add:
 handler = Mangum(app)
