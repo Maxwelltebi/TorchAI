@@ -67,10 +67,7 @@ const QUESTIONS = [
       { value: "mix of solo and team work", label: "Mix of solo and team work" },
     ],
   },
-  // ═══════════════════════════════════════════════════════════════════════════
-  // TESTING MODE: Questions 4-18 commented out. Uncomment ALL below for production.
-  // ═══════════════════════════════════════════════════════════════════════════
-  /*
+
   {
     key: "environment",
     label: "What kind of work environment appeals to you most?",
@@ -82,6 +79,7 @@ const QUESTIONS = [
       { value: "research institution or academia", label: "Research institution / academia" },
       { value: "government or public sector", label: "Government / public sector" },
       { value: "consulting firm", label: "Consulting firm" },
+      { value: "None of these"},
     ],
   },
   {
