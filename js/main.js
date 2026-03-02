@@ -79,7 +79,6 @@ const QUESTIONS = [
       { value: "research institution or academia", label: "Research institution / academia" },
       { value: "government or public sector", label: "Government / public sector" },
       { value: "consulting firm", label: "Consulting firm" },
-      { value: "None of these"},
     ],
   },
   {
