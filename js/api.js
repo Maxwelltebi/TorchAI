@@ -1,6 +1,6 @@
 // js/api.js — Calls the FastAPI backend which proxies Gemini
 
-const API_BASE = "https://torch-ai-ten.vercel.app/";
+const API_BASE = "";
 
 async function getCareerRecommendation(answers) {
   const kitList = CAREER_KITS.map((k) => `- ${k.id}: ${k.title} (${k.field})`).join("\n");
@@ -38,7 +38,7 @@ Respond ONLY with a valid JSON object in this exact format (no markdown, no extr
   "alternativeId": "another-kit-id-as-secondary-option"
 }`;
 
-  const response = await fetch(`${API_BASE}/recommend`, {
+  const response = await fetch(`/api/recommend`, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({ prompt }),
