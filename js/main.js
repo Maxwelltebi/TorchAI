@@ -226,7 +226,7 @@ const QUESTIONS = [
       { value: "I am open to either depending on the opportunity", label: "Open to either" },
     ],
   },
-  */
+
   {
     key: "industry",
     label: "Which industry do you feel most drawn to?",
