@@ -69,6 +69,9 @@ async def root():
 async def health():
     return {"status": "ok"}
 
+from mangum import Mangum
 
+# keep all your existing code, then at the very bottom add:
+handler = Mangum(app)
 # Vercel requires the app to be named 'app' or 'handler'
-handler = app
+#handler = app
