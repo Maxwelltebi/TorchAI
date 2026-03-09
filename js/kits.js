@@ -41,7 +41,7 @@ const CAREER_KITS = [
     field: "CS / IT", fieldSlug: "cs-it",
     description: "Design and deploy ML models at scale. Bridges data science and software engineering with a focus on production-ready AI systems.",
     skills: ["Python", "Deep Learning", "MLOps", "Cloud Platforms"],
-    kitLink: "https://docs.google.com/document/d/DUMMY_LINK_ML_ENGINEERING",
+    kitLink: "https://docs.google.com/document/d/153weATuJHZX18JekXSfvo07lJluD2BD7/edit?usp=sharing&ouid=116698512964477063695&rtpof=true&sd=true",
   },
   {
     id: "product-management",
