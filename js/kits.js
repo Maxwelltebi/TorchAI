@@ -49,7 +49,7 @@ const CAREER_KITS = [
     field: "CS / IT", fieldSlug: "cs-it",
     description: "Lead product vision from concept to launch. Covers roadmapping, user research, cross-functional leadership, and metrics-driven decision making.",
     skills: ["Strategic Thinking", "User Research", "Roadmapping", "Communication"],
-    kitLink: "https://docs.google.com/document/d/DUMMY_LINK_PRODUCT_MANAGEMENT",
+    kitLink: "https://docs.google.com/document/d/1TsDVyc5H3dX4_TaofwIaCwYRE2_FiVEh/edit?usp=sharing&ouid=116698512964477063695&rtpof=true&sd=true",
   },
   {
     id: "network-engineering",
