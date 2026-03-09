@@ -17,7 +17,7 @@ const CAREER_KITS = [
     field: "CS / IT", fieldSlug: "cs-it",
     description: "Transform raw data into actionable insights. Covers SQL, visualization tools, statistical analysis, and storytelling with data.",
     skills: ["SQL", "Data Visualization", "Excel/Sheets", "Statistical Thinking"],
-    kitLink: "https://docs.google.com/document/d/DUMMY_LINK_DATA_ANALYTICS",
+    kitLink: "https://docs.google.com/document/d/1OcjE_QR7Pz1vXbUYNU1d_uMOW59iSi0L/edit?usp=sharing&ouid=116698512964477063695&rtpof=true&sd=true",
   },
   {
     id: "data-science",
