@@ -9,7 +9,7 @@ const CAREER_KITS = [
     field: "CS / IT", fieldSlug: "cs-it",
     description: "Build scalable systems and applications. Covers full-stack development, software architecture, system design, and engineering best practices.",
     skills: ["Programming", "System Design", "Algorithms", "Collaboration"],
-    kitLink: "https://docs.google.com/document/d/DUMMY_LINK_SOFTWARE_ENGINEERING",
+    kitLink: "https://docs.google.com/document/d/1Lqshn6HFXMD_QVrKGNmyorlVQyrOaAcj/edit?usp=sharing&ouid=116698512964477063695&rtpof=true&sd=true",
   },
   {
     id: "data-analytics",
