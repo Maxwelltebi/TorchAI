@@ -33,7 +33,7 @@ const CAREER_KITS = [
     field: "CS / IT", fieldSlug: "cs-it",
     description: "Protect systems, networks, and data from digital threats. Covers threat analysis, ethical hacking, compliance, and security engineering.",
     skills: ["Network Security", "Ethical Hacking", "Risk Management", "Compliance"],
-    kitLink: "https://docs.google.com/document/d/DUMMY_LINK_CYBERSECURITY",
+    kitLink: "https://docs.google.com/document/d/1ncXyrEGOv8vIY3iFWXoYpNmXbY3EkrTU/edit?usp=sharing&ouid=116698512964477063695&rtpof=true&sd=true",
   },
   {
     id: "ml-engineering",
