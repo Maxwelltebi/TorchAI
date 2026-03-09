@@ -25,7 +25,7 @@ const CAREER_KITS = [
     field: "CS / IT", fieldSlug: "cs-it",
     description: "Blend statistics and programming to extract knowledge from data. Covers Python, machine learning fundamentals, and research methodology.",
     skills: ["Python", "Machine Learning", "Statistics", "Research"],
-    kitLink: "https://docs.google.com/document/d/DUMMY_LINK_DATA_SCIENCE",
+    kitLink: "https://docs.google.com/document/d/1-BiIbVSWWo-2gHw4K3yAUWZ6d3H8Pn-t/edit?usp=sharing&ouid=116698512964477063695&rtpof=true&sd=true",
   },
   {
     id: "cybersecurity",
