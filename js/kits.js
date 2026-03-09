@@ -57,7 +57,7 @@ const CAREER_KITS = [
     field: "CS / IT", fieldSlug: "cs-it",
     description: "Design and manage robust network infrastructure. Covers routing, switching, cloud networking, and network security protocols.",
     skills: ["Networking Protocols", "Cisco/Juniper", "Cloud Networking", "Troubleshooting"],
-    kitLink: "https://docs.google.com/document/d/DUMMY_LINK_NETWORK_ENGINEERING",
+    kitLink: "https://docs.google.com/document/d/12Xc-R_0cpYo9ER1HgJYK24ouk3rPb7l2/edit?usp=sharing&ouid=116698512964477063695&rtpof=true&sd=true",
   },
   {
     id: "it-project-management",
