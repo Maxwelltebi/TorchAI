@@ -65,7 +65,7 @@ const CAREER_KITS = [
     field: "CS / IT", fieldSlug: "cs-it",
     description: "Deliver technology projects on time and within budget. Covers Agile, Scrum, stakeholder management, and IT governance frameworks.",
     skills: ["Agile/Scrum", "Risk Management", "Stakeholder Communication", "Budgeting"],
-    kitLink: "https://docs.google.com/document/d/DUMMY_LINK_IT_PROJECT_MANAGEMENT",
+    kitLink: "https://docs.google.com/document/d/1JczHy_XDROokll5yVSuI2efHC6dgPiB9/edit?usp=sharing&ouid=116698512964477063695&rtpof=true&sd=true",
   },
   {
     id: "systems-administration",
@@ -73,7 +73,7 @@ const CAREER_KITS = [
     field: "CS / IT", fieldSlug: "cs-it",
     description: "Maintain and optimize IT infrastructure. Covers Linux/Windows server management, virtualization, cloud services, and automation.",
     skills: ["Linux/Windows Server", "Virtualization", "Scripting", "Cloud Services"],
-    kitLink: "https://docs.google.com/document/d/DUMMY_LINK_SYSTEMS_ADMINISTRATION",
+    kitLink: "https://docs.google.com/document/d/1cmygdz0FsTdRIrK7vG943FtJ9vSYdrsC/edit?usp=sharing&ouid=116698512964477063695&rtpof=true&sd=true",
   },
 
   // ── Pharmacy ─────────────────────────────────────────────────────────────
